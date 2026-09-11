@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Amrt4696
-- 👀 I’m interested in Compuational Physics
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Compuational Physics
-- 📫 How to reach me amrendra2000tiwari@gmail.com
+# Hello, I'm Amrendra
 
-<!---
-Amrt4696/Amrt4696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computational Materials Scientist | DFT · Molecular Dynamics · ML Interatomic Potentials · HPC
+
+Doctoral researcher at LMU Munich working on first-principles modelling, machine-learning interatomic potentials, and large-scale atomistic simulations. This profile contains selected research codes, workflows, and reproducible examples developed during my PhD research.
